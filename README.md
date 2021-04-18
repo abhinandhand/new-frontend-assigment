@@ -28,11 +28,13 @@ The goal of this assignment is to demonstrate your proficiency with Vue JS, Java
 
 ## Application Feature
 
- ### Used Nuxt framework for building production ready Vue app
- `![Nuxt application](https://i.ibb.co/hcYL5TK/Screenshot-2021-04-18-at-11-08-24-PM.png)
+ * Used Nuxt framework for building production ready Vue app
+ 
+![Nuxt application](https://i.ibb.co/hcYL5TK/Screenshot-2021-04-18-at-11-08-24-PM.png)
 
- ### Used Vuex state for storing the campaign data from the backend
-   ![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
+ * Used Vuex state for storing the campaign data from the backend
+ 
+![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
    
  ### CSS Grid for displaying campaign posts
    ![CSS GRID](https://i.ibb.co/279WKfs/Screenshot-2021-04-18-at-11-11-52-PM.png)
