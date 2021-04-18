@@ -6,9 +6,9 @@
     </div>
 
     <div class="post__stats-box">
-      <CampaignStat class="post__stats-items" :statLabel="'Impressions'" :statValue="post.stats.impression"/>
-      <CampaignStat class="post__stats-items" :statLabel="'Reach'" :statValue="post.stats.reach"/>
-      <CampaignStat class="post__stats-items" :statLabel="'Engagement'" :statValue="post.stats.engagement"/>
+      <CampaignStat class="post__stats-items" :statLabel="'Impressions'" :statValue="post.stats.impressions ? post.stats.impressions : 0"/>
+      <CampaignStat class="post__stats-items" :statLabel="'Reach'" :statValue="post.stats.reach ? post.stats.reach: 0"/>
+      <CampaignStat class="post__stats-items" :statLabel="'Engagement'" :statValue="post.stats.engagement ? post.stats.engagement : 0"/>
     </div>
   </div>
 </template>
