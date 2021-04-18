@@ -26,9 +26,13 @@ The goal of this assignment is to demonstrate your proficiency with Vue JS, Java
 * To run the Angular application ```npm run dev```
 
 
-## Vuex State
+## Application Feature
 
- ![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
+ * Used Nuxt framework for building production ready Vue app
+    ![Nuxt application](https://i.ibb.co/hcYL5TK/Screenshot-2021-04-18-at-11-08-24-PM.png)
+
+ * Used Vuex state for storing the campaign data from the backend
+   ![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
 
  
  # The Assignment
