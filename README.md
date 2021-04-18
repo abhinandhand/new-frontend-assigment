@@ -1,10 +1,37 @@
 # Welcome to The Cirqle Frontend Assignment
 
 The goal of this assignment is to demonstrate your proficiency with Vue JS, Javascript, and general web programming.
-We expect this assigment to take around 2 hours to complete, but you are free to spend as much time as you would like.
-There is no need to go overboard, once you feel you have demonstrated everything you want to show regarding your skills, the assignment is complete.
 
-# The Assignment
+## Project Demo 
+
+[Link to the page](https://fe-thecircle.netlify.app/)
+
+
+ ## Technology used
+ * Vue js 
+ * Vuex
+ * Nuxt
+ * Pure CSS & SCSS
+
+
+### To Run on local machine
+
+
+* Clone the repository ```https://github.com/abhinandhand/new-frontend-assigment.git```
+
+* cd in to the project ```cd new-frontend-assigment/fe-challenge```
+
+* Build the project ```npm install```
+
+* To run the Angular application ```npm run dev```
+
+
+## Vuex State
+
+ ![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
+
+ 
+ # The Assignment
 
 We need a new way of displaying the posts that an influencer has added to a campaign. As such we have a design for a new component, the 'Post details component'
 This component will
@@ -32,3 +59,5 @@ We will award extra points if you can demonstrate one or more of the following a
 
 You are free to use any libraries on top you would like, excluding UI libraries. For the component & page layouts please use pure CSS.
 Good luck!
+
+     
