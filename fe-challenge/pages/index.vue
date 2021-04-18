@@ -1,6 +1,8 @@
 <template>
   <div>
-      <h1>Index page</h1>
+      <NuxtLink to="/campaigns">
+        <h1>Go to Campaigns</h1>
+      </NuxtLink>
   </div>
 </template>
 
@@ -10,6 +12,12 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
 </style>

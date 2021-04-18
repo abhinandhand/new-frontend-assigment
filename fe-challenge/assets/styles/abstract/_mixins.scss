@@ -3,13 +3,15 @@
 0 - 568px:      Mobile
 600 - 900px:    Tablet
 900 - 1200px:   Tablet landscape
-[1200 - 1800] is where normal styles apply
+1200 - 1400px:  Desktop small
+[1400 - 1800] is where normal styles apply
 1800px + :      Big desktop
 
 $breakpoint arguement choices:
 - mobile
 - tab-port
 - tab-land
+- sm-desktop
 - big-desktop
 
 
@@ -18,6 +20,10 @@ $breakpoint arguement choices:
 @mixin respond($breakpoint) {
     @if $breakpoint == big-desktop {
         @media only screen and (min-width: $bp-desktop-big) { @content };
+    }
+
+    @if $breakpoint == sms-desktop {
+        @media only screen and (min-width: $bp-desktop-sm) { @content };
     }
 
     @if $breakpoint == tab-land {
