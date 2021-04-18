@@ -36,15 +36,17 @@ The goal of this assignment is to demonstrate your proficiency with Vue JS, Java
  
 ![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
    
- ### CSS Grid for displaying campaign posts
-   ![CSS GRID](https://i.ibb.co/279WKfs/Screenshot-2021-04-18-at-11-11-52-PM.png)
+ * CSS Grid for displaying campaign posts
+
+![CSS GRID](https://i.ibb.co/279WKfs/Screenshot-2021-04-18-at-11-11-52-PM.png)
    
- ### Resusable components 
-   ![Components](https://i.ibb.co/D9XrZzQ/Screenshot-2021-04-18-at-11-08-55-PM.png)
-   
- ### CSS flexbox to dispaly the campaign stats
+ * Resusable components 
  
- ### Used vue-moment as plugins in nuxt for showing date in human readbale format
+![Components](https://i.ibb.co/D9XrZzQ/Screenshot-2021-04-18-at-11-08-55-PM.png)
+   
+ * CSS flexbox to dispaly the campaign stats
+ 
+ * Used vue-moment as plugins in nuxt for showing date in human readbale format
 
 
  
