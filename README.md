@@ -9,6 +9,7 @@ The goal of this assignment is to demonstrate your proficiency with Vue JS, Java
 
  ## Technology used
  * Vue js 
+ * Vuex
  * Nuxt
  * Pure CSS & SCSS
 
@@ -23,6 +24,11 @@ The goal of this assignment is to demonstrate your proficiency with Vue JS, Java
 * Build the project ```npm install```
 
 * To run the Angular application ```npm run dev```
+
+
+## Vuex State
+
+ ![Vuex](https://i.ibb.co/NW3Yyj5/Screenshot-2021-04-18-at-11-02-21-PM.png)
 
  
  # The Assignment
