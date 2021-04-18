@@ -22,6 +22,7 @@ export default {
 .inf {
   &__profile {
     position: absolute;
+    z-index: 100;
     bottom: 0;
     left: 0;
     padding: 0rem 0rem 0.7rem 0.5rem;

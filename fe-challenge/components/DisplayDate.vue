@@ -1,6 +1,6 @@
 <template>
   <span>
-      {{postingDate}}
+      {{postingDate | moment("MMMM Do YYYY")}}
   </span>
 </template>
 

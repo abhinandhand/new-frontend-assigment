@@ -1,7 +1,7 @@
 <template>
   <div class="stat__box">
       <div>
-          {{ statValue}}
+          {{ statValue}}<span v-show="statLabel === 'Engagement'">%</span>
       </div>
       <div>
           {{statLabel}}
