@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const apiClient = axios.create(
     {
-        baseURL: `https://run.mocky.io/v3`,
+        baseURL: `https://raw.githubusercontent.com/shetdisha94/mock-front-data/refs/heads/main`,
         withCredentials: false,
         headers: {
           Accept: 'application/json',
@@ -12,6 +12,6 @@ const apiClient = axios.create(
 
 export default {
     getCampaigns() {
-      return apiClient.get('/85e0a8f4-2c7c-4cf4-bced-b53060307733')
+      return apiClient.get('campagin-mock.json')
     }
 }
